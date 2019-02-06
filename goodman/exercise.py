@@ -46,7 +46,7 @@ class Exercise(object):
 
     def as_html(self):
         """Formats the exercise as an html link."""
-        return '<a href="{url}">{name}</a>'.format(url=self.url, name=self.name)
+        return '{name} (<a href="{url}">example</a>)'.format(url=self.url, name=self.name)
 
     def __repr__(self):
         return '{_name}(name={name},url={url})'.format(
