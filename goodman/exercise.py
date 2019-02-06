@@ -159,3 +159,99 @@ ZottmanCurls = Exercise(
 IsoHoldDBCurls = Exercise(
     "Iso-hold DB curls",
     "https://www.youtube.com/watch?v=ooXEcYEdyGo")
+
+BoxJumps = Exercise(
+    "Box jumps",
+    "http://www.youtube.com/watch?v=VK11KovyaP8&mode=related&search=")
+
+VerticalJumps = Exercise(
+    "Vertical jumps",
+    "https://youtu.be/RgboWFzSUKo?t=46")
+
+BroadJumps = Exercise(
+    "Broad jumps",
+    "https://youtu.be/P0N68OQDhNs?t=95")
+
+HurdleHops = Exercise(
+    "Hurdle hops (jump over hurdle and land on ground)",
+    "https://youtu.be/0H_fXWTUSiY?t=49")
+
+BoxSquatIntoBoxJump = Exercise(
+    "Box squat into box jump",
+    "http://www.youtube.com/watch?v=9PEdhxELbDQ")
+
+DepthJumps = Exercise(
+    "Depth jumps (onto box)",
+    "http://www.youtube.com/watch?v=S6664b4UrGs")
+
+BulgarianSplitSquats = Exercise(
+    "Bulgarian split squats, front leg elevated (holding DB's or with a barbell)",
+    "http://www.youtube.com/watch?v=RZlodHgCipk")
+
+BarbellReverseLunge = Exercise(
+    "Barbell reverse lunge, front foot elevated",
+    "https://www.youtube.com/watch?v=zJkMQPZiwAc")
+
+BarbellReverseLungeKneeLift = Exercise(
+    "Barbell reverse lunge with knee lift (front foot elevated)",
+    "https://www.youtube.com/watch?v=jU9y6hvJ40o")
+
+StepUps = Exercise(
+    "Step-ups (box height slightly above knee)",
+    "https://www.youtube.com/watch?v=sZsmorjSzBM")
+
+FortyFiveDegreeHyperextensions = Exercise(
+    "45-degree hyperextensions",
+    "https://www.youtube.com/watch?v=ry45nfO-PAU")
+
+ReverseHyperextensions = Exercise(
+    "Reverse hyperextensions",
+    "https://www.youtube.com/watch?v=3d9_W--eUcI")
+
+PullThroughs = Exercise(
+    "Pull-throughs",
+    "https://www.youtube.com/watch?v=DbSF7ipBh5Y")
+
+SwissBallBackBridgeLegCurl = Exercise(
+    "Swiss ball back bridge + leg curl",
+    "https://www.youtube.com/watch?v=65W4XfSzP8U")
+
+GluteHamRaise = Exercise(
+    "Glute-ham raises",
+    "https://www.youtube.com/watch?v=vSOCqsr1wlg")
+
+RomanianDeadlift = Exercise(
+    "Romanian deadlift",
+    "https://www.youtube.com/watch?v=2SHsk9AzdjA")
+
+DBSideBends = Exercise(
+    "DB side bends",
+    "https://www.youtube.com/watch?v=dL9ZzqtQI5c")
+
+OffsetBarbellSideBends = Exercise(
+    "Offset barbell side bends",
+    "https://www.youtube.com/watch?v=1uI-7cwf9Tw")
+
+BarbellRussianTwists = Exercise(
+    "Barbell Russian twists",
+    "https://www.youtube.com/watch?v=TImmxdzX0gk")
+
+LowCablePullIns = Exercise(
+    "Low cable or band pull-ins",
+    "https://www.youtube.com/watch?v=sKtxdAgznB4")
+
+HangingLegRaises = Exercise(
+    "Hanging leg raises",
+    "https://www.youtube.com/watch?v=arWjJtMsqvA")
+
+WeightedSwissBallCrunches = Exercise(
+    "Weighted Swiss ball crunches",
+    "https://www.youtube.com/watch?v=Xdqgs6wK8eY")
+
+SpreadEagleSitUps = Exercise(
+    "Spread-eagle sit-ups (holding DB over chest)",
+    "https://www.youtube.com/watch?v=kuMlr3Lkd8A")
+
+StandingSitUps = Exercise(
+    "Standing sit-ups (using a band or a high pulley)",
+    "https://www.youtube.com/watch?v=ij3lWMnoFzA")

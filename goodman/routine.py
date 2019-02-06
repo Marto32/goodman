@@ -144,3 +144,56 @@ class ElbowFlexorExercise(ExerciseRoutine):
         exercise.ZottmanCurls,
         exercise.IsoHoldDBCurls,
     ]
+
+
+# Tuesday routines
+class JumpTraining(ExerciseRoutine):
+    name = "Jump training"
+    description = "Perform 5-8 sets of 1-3 jumps"
+    exercises = [
+        exercise.BoxJumps,
+        exercise.VerticalJumps,
+        exercise.BroadJumps,
+        exercise.HurdleHops,
+        exercise.BoxSquatIntoBoxJump,
+        exercise.DepthJumps,
+    ]
+
+
+class UnilateralExercise(ExerciseRoutine):
+    name = "Unilateral exercise (w/ added ROM)"
+    description = "Perform 2-3 sets of 8-10 reps."
+    exercises = [
+        exercise.BulgarianSplitSquats,
+        exercise.BarbellReverseLunge,
+        exercise.BarbellReverseLungeKneeLift,
+        exercise.StepUps,
+    ]
+
+
+class HipExtensionExercise(ExerciseRoutine):
+    name = "Hip extension exercise"
+    description = "Perform 3 sets of 8-12 reps."
+    exercises = [
+        exercise.FortyFiveDegreeHyperextensions,
+        exercise.ReverseHyperextensions,
+        exercise.PullThroughs,
+        exercise.SwissBallBackBridgeLegCurl,
+        exercise.GluteHamRaise,
+        exercise.RomanianDeadlift,
+    ]
+
+
+class WeightedAbdominals(ExerciseRoutine):
+    name = "Weighted Abdominals"
+    description = "Perform 4 sets of 10-15 reps."
+    exercises = [
+        exercise.DBSideBends,
+        exercise.OffsetBarbellSideBends,
+        exercise.BarbellRussianTwists,
+        exercise.LowCablePullIns,
+        exercise.HangingLegRaises,
+        exercise.WeightedSwissBallCrunches,
+        exercise.SpreadEagleSitUps,
+        exercise.StandingSitUps,
+    ]
