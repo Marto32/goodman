@@ -255,3 +255,75 @@ SpreadEagleSitUps = Exercise(
 StandingSitUps = Exercise(
     "Standing sit-ups (using a band or a high pulley)",
     "https://www.youtube.com/watch?v=ij3lWMnoFzA")
+
+DBBenchPressOnSwissBall = Exercise(
+    "DB bench press on Swiss ball (palms in or out)",
+    "https://www.youtube.com/watch?v=uxgA5qEi2mc")
+
+PushUpVariations = Exercise(
+    "Push-up variations (choose 1 and do it)",
+    "https://www.youtube.com/watch?v=FU_5LPjtjus")
+
+ChinUpVariations = Exercise(
+    "Chin-up variations (choose 1 and do it)",
+    "https://www.youtube.com/watch?v=zaJQtvKkl6g")
+
+BarbellBenchPress = Exercise(
+    "Barbell bench press (55-60% of 1RM)",
+    "http://www.youtube.com/watch?v=E-kNUEv0YgA")
+
+LatPulldowns = Exercise(
+    "Lat pulldowns (various bars)",
+    "https://www.youtube.com/watch?v=84oCEetzdS4")
+
+StraightArmPulldowns = Exercise(
+    "Straight arm pulldowns",
+    "https://www.youtube.com/watch?v=n3O1jkQyXC4")
+
+DBLateralRaises = Exercise(
+    "DB lateral raises",
+    "https://www.youtube.com/watch?v=geenhiHju-o")
+
+LLateralRaises = Exercise(
+    "L-lateral raises",
+    "https://www.youtube.com/watch?v=bXC7eL0H7AA")
+
+CableLateralRaises = Exercise(
+    "Cable lateral raises",
+    "https://www.youtube.com/watch?v=IVBacQ0Q3Bw")
+
+DBMilitaryPress = Exercise(
+    "DB military press",
+    "https://www.youtube.com/watch?v=qEwKCR5JCog")
+
+DBSidePress = Exercise(
+    "DB side press",
+    "https://www.youtube.com/watch?v=Eyd-e7J3zFI")
+
+BoxSquats = Exercise(
+    "Box squats (regular bar, safety squat bar, cambered bar, buffalo bar)",
+    "http://www.youtube.com/watch?v=paAR3wjFFks")
+
+FreeSquats = Exercise(
+    "Free squats (regular bar, safety squat bar, cambered bar, buffalo bar)",
+    "http://www.youtube.com/watch?v=7IkyiekPIrg&NR=1",)
+
+StraightBarDeadlifts = Exercise(
+    "Straight bar deadlifts",
+    "https://www.youtube.com/watch?v=L0vuwx9Q9VI")
+
+RackPulls = Exercise(
+    "Rack pulls",
+    "https://www.youtube.com/watch?v=e11lVmLsvFU")
+
+AbdominalCircuit = Exercise(
+    "Abdominal circuit",
+    "https://www.youtube.com/watch?v=izDf0MCR2DU")
+
+ReverseLungeVariations = Exercise(
+    "Reverse lunge variations",
+    "https://www.youtube.com/watch?v=k_KoxW5Kpus")
+
+StepUpVariations = Exercise(
+    "Step up variations",
+    "https://www.youtube.com/watch?v=dQqApCGd5Ss")
