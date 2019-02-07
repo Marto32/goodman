@@ -1,0 +1,29 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "eec49bb6ab379203279cef0c0c03c02e043361479eaf499e47463601639b7857"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.6"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "yagmail": {
+            "hashes": [
+                "sha256:41a19198a60f454628b1fb948d1f8b38ddeea5802f677699c3ce5265e3d9f748",
+                "sha256:a93efe034ef83e32a17c8888c5eec1568f7350a5918199548d31fff643bee83e"
+            ],
+            "index": "pypi",
+            "version": "==0.11.214"
+        }
+    },
+    "develop": {}
+}
