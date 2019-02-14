@@ -14,14 +14,14 @@ SCHEDULE = {
     # Monday
     0: workout.MaxEffortUpperBody,
 
-    # Wednesday
-    2: workout.DynamicEffortLowerBody,
+    # Tuesday
+    1: workout.DynamicEffortLowerBody,
+
+    # Thursday
+    3: workout.RepetitionUpperBody,
 
     # Friday
-    4: workout.RepetitionUpperBody,
-
-    # Saturday
-    5: workout.MaxEffortLowerBody,
+    4: workout.MaxEffortLowerBody,
 }
 
 
